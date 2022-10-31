@@ -1,0 +1,15 @@
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\bin\Debug\ProiectCrmBi.exe.config
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\bin\Debug\ProiectCrmBi.exe
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\bin\Debug\ProiectCrmBi.pdb
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.csproj.AssemblyReference.cache
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.csproj.SuggestedBindingRedirects.cache
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.Form1.resources
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.LoyalCustomersForm.resources
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.Properties.Resources.resources
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.csproj.GenerateResource.cache
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.csproj.CoreCompileInputs.cache
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.exe
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.pdb
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.BadPromptPayersForm.resources
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.ComplaintsForm.resources
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.CustomerAnalysisForm.resources
