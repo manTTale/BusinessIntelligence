@@ -13,3 +13,5 @@ D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.p
 D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.BadPromptPayersForm.resources
 D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.ComplaintsForm.resources
 D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\obj\Debug\ProiectCrmBi.CustomerAnalysisForm.resources
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\bin\Debug\Database.mdf
+D:\Scoala\BI\Proiect\Proiect2\ProiectCrmBi\ProiectCrmBi\bin\Debug\Database_log.ldf

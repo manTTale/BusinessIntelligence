@@ -16,5 +16,10 @@ namespace ProiectCrmBi
         {
             InitializeComponent();
         }
+
+        private void CustomerAnalysisForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -40,14 +40,15 @@
             this.button1.Text = "Inside CustomerAnalysis";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // CustomerAnalysis
+            // CustomerAnalysisForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button1);
-            this.Name = "CustomerAnalysis";
+            this.Name = "CustomerAnalysisForm";
             this.Text = "CustomerAnalysis";
+            this.Load += new System.EventHandler(this.CustomerAnalysisForm_Load);
             this.ResumeLayout(false);
 
         }
